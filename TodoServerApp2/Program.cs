@@ -1,13 +1,13 @@
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using TodoServerApp.Components;
-using TodoServerApp.Components.Account;
-using TodoServerApp.Data;
-using TodoServerApp.Data.Interfaces;
-using TodoServerApp.Data.Services;
+using TodoServerApp2.Components;
+using TodoServerApp2.Components.Account;
+using TodoServerApp2.Data;
+using TodoServerApp2.Data.Interfaces;
+using TodoServerApp2.Data.Services;
 
-namespace TodoServerApp
+namespace TodoServerApp2
 {
     public class Program
     {
